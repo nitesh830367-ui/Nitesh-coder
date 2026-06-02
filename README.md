@@ -1,2 +1,3 @@
 # Nitesh-coder
-This is my first choose github
+This is my first choose github.
+author - nitesh tripathi
